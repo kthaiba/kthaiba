@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kthaiba
-- 👀 I’m interested in learning Devops/AWS and broaden my knowledge!
+- 👀 I’m interested in learning Devops/DevSecOps/Cloud Services and broaden my knowledge!
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
